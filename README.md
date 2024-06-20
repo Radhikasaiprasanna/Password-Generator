@@ -1,7 +1,8 @@
 # Password-Generator
-Description:In response to rising cyber threats, using different complex passwords for various accounts is crucial. Password generators are helpful for creating strong passwords.To enhance security, you can save passwords in encrypted form by studying Cryptography and Java Cryptography Architecture.
 
-# Password-Generator
+# Description :
+
+In response to rising cyber threats, using different complex passwords for various accounts is crucial. Password generators are helpful for creating strong passwords.To enhance security, you can save passwords in encrypted form by studying Cryptography and Java Cryptography Architecture.
 
 This project is a Java Console Application to generate random passwords and perform password strength checks.
 
